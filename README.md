@@ -19,7 +19,7 @@ ytdl-core: A library for downloading YouTube videos and extracting audio in vari
 
 Installation
 
-Clone the repository: git clone https://github.com/your-username/your-repo.git
+Clone the repository: git clone https://github.com/Telviaz/-WhatsApp-bot-for-YouTube-mp3
 
 Install the dependencies: npm install
 
