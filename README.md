@@ -1,7 +1,7 @@
-Node.js WhatsApp Bot for YouTube mp3 Download
+##Node.js WhatsApp Bot for YouTube mp3 Download
 This is a Node.js application that allows users to download mp3 files from YouTube by sending a WhatsApp message to a designated phone number.
 
-Dependencies
+##Dependencies
 This application requires the following dependencies:
 
 whatsapp-web.js: A WhatsApp Web API library for Node.js
