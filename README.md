@@ -60,3 +60,13 @@ Usage
 To use the application, add the phone number of the bot to your WhatsApp contacts and send it a message in the following format
 
 
+
+!download <youtube-url>
+
+  
+  
+  License
+  
+  
+This project is licensed under the MIT License - see the LICENSE file for details
+
