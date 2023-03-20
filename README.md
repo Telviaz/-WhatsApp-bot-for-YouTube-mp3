@@ -42,3 +42,21 @@ PHONE_NUMBER=your-phone-number
 SESSION_FILE=session.json
 
 DOWNLOAD_DIR=downloads/
+
+
+
+
+
+
+Replace your-phone-number with the phone number of the WhatsApp account you want to use as the bot. The SESSION_FILE variable specifies the name of the file where
+
+
+the bot's session data will be stored. The DOWNLOAD_DIR variable specifies the name of the directory where downloaded mp3 files will be stored.
+
+
+Usage
+
+
+To use the application, add the phone number of the bot to your WhatsApp contacts and send it a message in the following format
+
+
